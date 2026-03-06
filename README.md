@@ -1,6 +1,4 @@
-<div>
-       <img src="" alt="Portada del challenge">
-</div>
+![portada-challenge](src/main/resources/literalura-challenge-portada.jpg)
 
 # Literalura Challenge
 
